@@ -1,5 +1,4 @@
 # LinkLayerAI- Monetize Own Web Data In Web3
---------
 
 [<img src=https://github.com/LinklayerAILab/.github/blob/master/profile/1.png width=16% height=30% />](https://x.com/LinkLayerAI)
 [<img src=https://github.com/LinklayerAILab/.github/blob/master/profile/2.png width=17% height=30% />](https://t.me/linklayer_ai)
