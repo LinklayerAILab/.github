@@ -4,4 +4,4 @@
 [<img src=https://github.com/LinklayerAILab/.github/blob/master/profile/2.png width=17% height=30% />](https://t.me/linklayer_ai)
 [<img src=https://github.com/LinklayerAILab/.github/blob/master/profile/3.png width=17% height=30% />](https://t.me/LinkLayerAIBot)
 
-LinkLayerAI is an on-chain data assetization protocol that leverages AI Agents to create a new way of data invocation.
+LinkLayerAI is a data assetization DeFi protocol driven by various types of Agents and Agent SaaS. Different types of Agents provide intelligent services to meet diverse needs, while Agent SaaS offers standardized services to support multi-chain Web3 projects. These Agents and Agent SaaS will achieve Web data assetization through DeFi, while promoting data intelligence and value interoperability within the Web ecosystem.
